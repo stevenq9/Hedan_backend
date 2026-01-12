@@ -824,13 +824,6 @@ URLs configured via environment variables.
 5. Document public APIs
 6. Submit pull request
 
----
-
-## License
-
-[Insert License Information]
-
----
 
 ## Support
 
